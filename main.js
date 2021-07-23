@@ -210,3 +210,32 @@ const pets = [
       imageUrl: "http://lsae2.iypcdn.com/static//modules/uploads/photos/language1/dino-live-22.jpg?119"
     }
   ];
+
+// const showAllPets = 
+// const showPets = document.getElementById("listOfPets");
+// pets.forEach(animal => {
+// showPets.innerHTML += "
+//   <div>
+//     if (animal.type === "dog") {
+//     }
+//   })
+//   "
+//   showPets()
+
+  // pets.forEach(animal => {
+  //   if (animal.type === "cat") {
+  //     console.log(animal.name)
+  //   }
+  // })
+
+  // pets.forEach(animal => {
+  //   if (animal.type === "dino") {
+  //     console.log(animal.name)
+  //   }
+  // })
+
+  // pets.forEach(animal => {
+  //   if (animal.type === "dino" || pet.type === "cat" || pet.type === "dog") {
+  //     console.log(animal.name)
+  //   }
+  // })
