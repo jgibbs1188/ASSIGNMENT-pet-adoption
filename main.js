@@ -1,3 +1,6 @@
+// Next To Do - fix images for broken pets. Give Delete button functionality. 
+
+
 const pets = [
     {
       name: "Dusty",

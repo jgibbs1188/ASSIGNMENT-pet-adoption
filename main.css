@@ -25,9 +25,10 @@ body {
   }
 
   .deleteBtn {
+    background-color: red;
     color: black;
     font-weight: bold;
-    background: red;
+    font-size: 15px;
   }
 
 .card-body {
