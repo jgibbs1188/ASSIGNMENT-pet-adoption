@@ -24,13 +24,22 @@ body {
       text-align: center;
   }
 
+  .petType {
+    background-color:aquamarine;
+  }
+
+  .petImage {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    border: ridge 8px lightblue
+  }
+
   .deleteBtn {
     background-color: red;
     color: black;
     font-weight: bold;
     font-size: 15px;
+    position: absolute;
+    bottom: 0;
   }
-
-.card-body {
-    justify-content: center;
-}
